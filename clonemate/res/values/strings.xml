@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">PubMate</string>
+    <string name="splash">Splash Screen</string>
+    <string name ="menu"> Menu Screen</string>
+    <string name ="help">Help Screen</string>
+    <string name ="sms">Send Text Screen</string>
+   <string name ="settings">Settings Screen</string>
+   <string name="app_top">Pub</string>
+   <string name="app_bottom">Mate</string>
+   <string name="app_version_info">copyright © 2012 Samuel Jackinda, Inc. All Rights Reserved. </string>
+    <string name="alternate_title">An alternate title that is long</string>
+    <string name="toggle_title">Toggle title</string>
+ <string
+        name="gridpager_button_db">Show Prices</string>
+    <string
+        name="gridpager_button_map">Show Map</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    
+    <string name="first_page">First</string>
+    <string name="last_page">Last</string>
+	<string name="demo_pager_title">Pubmate</string>
+	<string name="demo_pager2_title">Pubmate</string>
+	<string name="sample_topic_title">Sample Topic</string>
+	<string name="sample_topic_text">this is news to me.</string>
+	<string name="no_items">No items</string>
+</resources>
